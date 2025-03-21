@@ -2,7 +2,7 @@
 
 This project predicts whether an individual is eligible for a loan based on various financial and demographic factors. Using machine learning, it analyzes key features such as income, credit history, and property area to classify loan applicants as eligible or not.
 
-Overview
+# Overview
 
 The Loan Prediction System is developed using Python and scikit-learn. The model is trained on historical loan application data and utilizes a Support Vector Machine (SVM) classifier for prediction. The project includes:
 
