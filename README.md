@@ -1,5 +1,4 @@
 # Loan_prediction
-Description
 
 This project predicts whether an individual is eligible for a loan based on various financial and demographic factors. Using machine learning, it analyzes key features such as income, credit history, and property area to classify loan applicants as eligible or not.
 
@@ -35,15 +34,11 @@ Predictive System: Allows users to input new data and check loan eligibility in 
 
 Technologies Used
 
-Python
-
-NumPy
-
-Pandas
-
-Seaborn
-
-scikit-learn
+Python,
+NumPy,
+Pandas,
+Seaborn,
+scikit-learn,
 
 Results
 
