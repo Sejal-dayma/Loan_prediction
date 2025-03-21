@@ -18,7 +18,7 @@ Evaluating model performance using accuracy metrics.
 
 A predictive system that determines loan eligibility based on user-provided inputs.
 
-Features
+*Features*
 
 Data Exploration: Understanding the dataset structure and loan status distribution.
 
@@ -32,7 +32,7 @@ Performance Evaluation: Accuracy measurement on training and test datasets.
 
 Predictive System: Allows users to input new data and check loan eligibility in real-time.
 
-Technologies Used
+*Technologies Used*
 
 Python,
 NumPy,
@@ -40,6 +40,6 @@ Pandas,
 Seaborn,
 scikit-learn,
 
-Results
+*Results*
 
 The model achieves high accuracy in predicting loan eligibility. Performance metrics provide insights into the model's classification efficiency.
